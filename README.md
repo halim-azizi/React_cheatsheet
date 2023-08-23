@@ -1,3 +1,3 @@
 # React_cheatsheet
 
-In this file you can learn all the basics of react.
+# In this repo you can learn all the react basics :)
